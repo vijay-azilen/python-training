@@ -1,9 +1,12 @@
 from dotenv import load_dotenv
-from openai import OpenAI
+import os
+from groq import Groq
 
 load_dotenv()  # Load environment variables from .env file
 
-client = OpenAI()
+client = Groq(
+    api_key=os.getenv("GROQ_API_KEY")
+)
 
 while True:
     user_input = input("You: ")
@@ -13,7 +16,7 @@ while True:
         break
     
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="llama-3.3-70b-versatile",
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": user_input}

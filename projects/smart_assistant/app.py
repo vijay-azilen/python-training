@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 import os
 from groq import Groq
 
+
 load_dotenv()  # Load environment variables from .env file
 
 client = Groq(

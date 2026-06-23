@@ -2,27 +2,6 @@
 
 ## Module 1: Python Setup & Fundamentals
 
-### Environment Setup
-
-* [x] Python Installation
-* [x] IDE Setup (VS Code / PyCharm)
-* [ ] Virtual Environments (venv)
-
-### Core Language Fundamentals
-
-* [ ] Variables
-* [ ] Data Types
-* [ ] Strings
-* [ ] Lists
-* [ ] Tuples
-* [ ] Sets
-* [ ] Dictionaries
-
-### Control Flow
-
-* [ ] Conditional Statements (if, elif, else)
-* [ ] Loops (for, while)
-
 ### Module 1 Mini Project
 
 * [ ] Build a Student Management Console Application

@@ -11,36 +11,10 @@
 ## Module 2: Implement Structured Python Code
 
 ### Functions
-
-* [ ] Function Definition
-* [ ] Function Arguments
-* [ ] Return Values
-* [ ] Lambda Functions
-
 ### Import & Modules
-
-* [ ] Import Statements
-* [ ] Creating Custom Modules
-* [ ] Using Packages
-
 ### Exception Handling
-
-* [ ] Try / Except
-* [ ] Multiple Exceptions
-* [ ] Finally Block
-* [ ] Custom Exceptions
-
 ### Object Oriented Programming
-
-* [ ] Classes & Objects
-* [ ] Constructors
-* [ ] Inheritance
-* [ ] Polymorphism
-* [ ] Encapsulation
-* [ ] Abstraction
-
 ### Module 2 Mini Project
-
 * [ ] Library Management System
 
 ---

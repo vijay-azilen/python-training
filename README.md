@@ -17,36 +17,6 @@
 
 ## Module 3: Working with Files & Data
 
-### File Operations
-
-* [ ] Read Text Files
-* [ ] Write Text Files
-* [ ] Append Files
-
-### CSV Files
-
-* [ ] Read CSV
-* [ ] Write CSV
-* [ ] CSV Data Processing
-
-### JSON Files
-
-* [ ] Read JSON
-* [ ] Write JSON
-* [ ] JSON Serialization & Deserialization
-
-### PDF Files
-
-* [ ] Read PDF
-* [ ] Extract PDF Content
-* [ ] Generate PDF
-
-### Directory & Path Handling
-
-* [ ] Working with Directories
-* [ ] Pathlib
-* [ ] File Search Operations
-
 ### Module 3 Mini Project
 
 * [ ] File Processing Utility

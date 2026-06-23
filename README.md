@@ -10,10 +10,6 @@
 
 ## Module 2: Implement Structured Python Code
 
-### Functions
-### Import & Modules
-### Exception Handling
-### Object Oriented Programming
 ### Module 2 Mini Project
 * [ ] Library Management System
 

@@ -1,0 +1,5 @@
+Python is a powerful programming language.
+
+Python is widely used in AI and Data Science.
+
+Learning Python improves career opportunities.

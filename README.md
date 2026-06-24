@@ -25,36 +25,6 @@
 
 ## Module 4: APIs & Project Organization
 
-### API Fundamentals
-
-* [ ] HTTP Methods
-* [ ] Request & Response Lifecycle
-* [ ] Status Codes
-
-### API Requests
-
-* [ ] GET Requests
-* [ ] POST Requests
-* [ ] PUT Requests
-* [ ] DELETE Requests
-
-### API Response Handling
-
-* [ ] JSON Responses
-* [ ] Error Handling
-* [ ] Response Validation
-
-### Project Organization
-
-* [ ] Modules
-* [ ] Packages
-* [ ] Project Structure Best Practices
-
-### Configuration Management
-
-* [ ] Environment Variables
-* [ ] .env Files
-* [ ] Secrets Management Basics
 
 ### Module 4 Mini Project
 

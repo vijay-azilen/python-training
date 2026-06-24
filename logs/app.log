@@ -1,0 +1,5 @@
+2026-06-24 13:32:22,120 - ERROR - name 'user' is not defined
+2026-06-24 13:33:05,976 - INFO - Calling API: https://jsonplaceholder.typicode.com/users/1
+2026-06-24 13:33:06,701 - INFO - User fetched : 1
+2026-06-24 14:25:11,368 - INFO - Calling API: https://jsonplaceholder.typicode.com/users/1
+2026-06-24 14:25:12,017 - INFO - User fetched : 1

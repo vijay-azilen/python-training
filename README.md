@@ -4,14 +4,14 @@
 
 ### Module 1 Mini Project
 
-* [ ] Build a Student Management Console Application
+* [x] Build a Student Management Console Application
 
 ---
 
 ## Module 2: Implement Structured Python Code
 
 ### Module 2 Mini Project
-* [ ] Library Management System
+* [x] Library Management System
 
 ---
 
@@ -19,7 +19,7 @@
 
 ### Module 3 Mini Project
 
-* [ ] File Processing Utility
+* [x] File Processing Utility
 
 ---
 
@@ -28,14 +28,14 @@
 
 ### Module 4 Mini Project
 
-* [ ] Weather API Client
+* [x] Weather API Client
 
 ---
 
 ## Module 5: Modern Python for AI Development
 ### Module 5 Mini Project
 
-* [ ] Async Multi-API Data Collector
+* [x] Async Multi-API Data Collector
 
 ---
 

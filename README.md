@@ -33,36 +33,6 @@
 ---
 
 ## Module 5: Modern Python for AI Development
-
-### CLI Development
-
-* [ ] CLI Script Basics
-* [ ] Argument Parsing
-
-### Type Hints
-
-* [ ] Function Type Hints
-* [ ] Custom Types
-* [ ] Dataclasses
-
-### Async Programming
-
-* [ ] Async Fundamentals
-* [ ] Async Functions
-* [ ] Await Keyword
-
-### Asyncio
-
-* [ ] Event Loop
-* [ ] Tasks
-* [ ] Coroutines
-
-### Concurrent Execution
-
-* [ ] Threading
-* [ ] Multiprocessing
-* [ ] Concurrent Futures
-
 ### Module 5 Mini Project
 
 * [ ] Async Multi-API Data Collector
